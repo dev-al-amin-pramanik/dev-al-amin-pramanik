@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Software+Engineer+from+Bangladesh;Full-Stack+Developer;AI+Enthusiast;Building+Modern+Web+Applications)](https://git.io/typing-svg)
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://new-portfolio-pearl-pi.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alaminpramanik.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mdalaminpramanik@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-al-amin-pramanik)
 
